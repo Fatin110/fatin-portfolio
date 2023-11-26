@@ -33,7 +33,7 @@
   <div class="card">
     <img src="{{asset('image/news.jpeg')}}" alt="Card Image">
     <div class="card-content">
-      <h3 style="color: #E45F4E;">Tourigo</h3>
+      <h3 style="color: #E45F4E;">News Page</h3>
       <p>A project designed with html/css</p>
     </div>
   </div>
